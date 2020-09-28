@@ -1,6 +1,6 @@
 # PowerShell Power Management Script
 
-A little PowerShell script to help manage activities to happen when changing power sources on laptops. It can start and end apps and adjust screen brightness.
+A little PowerShell script to help manage activities that happen when changing power sources on laptops. It can start and end apps and adjust screen brightness.
 
 **Links to helpful resources:**
 - [Audio Device Cmdlets](https://github.com/frgnca/AudioDeviceCmdlets) - Tool to switch and manage audio devices
