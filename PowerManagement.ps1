@@ -69,7 +69,7 @@ If($Chassis -eq "Laptop") {
         }
 
         #Set Default Laptop Audio
-        Set-AudioDevice -ID "{0.0.0.00000000}.{e8f51808-5570-4543-8c84-5faa7ef1ed1b}"
+        #Set-AudioDevice -ID "{0.0.0.00000000}.{e8f51808-5570-4543-8c84-5faa7ef1ed1b}"
 
     #Do stuff when on AC 
     } else {
@@ -94,7 +94,7 @@ If($Chassis -eq "Laptop") {
         }
 
         #Set Default Voicemeeter Audio
-        Set-AudioDevice -ID "{0.0.0.00000000}.{9b0402ee-7854-415c-be21-b789613f143f}"
+        #Set-AudioDevice -ID "{0.0.0.00000000}.{9b0402ee-7854-415c-be21-b789613f143f}"
         
     }
  
